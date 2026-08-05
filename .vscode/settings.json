@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.view.showQuietly": {
+        "workbench.panel.output": true
+    }
+}
